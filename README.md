@@ -13,3 +13,4 @@
     - Approvals will be reset upon new changes being comitted
 - Pull requests will need to pass all builds to be merged
 - Pull requests will need to have all open tasks completed to be merged
+- Pull requests will require an associated Jira ticket to be merged
