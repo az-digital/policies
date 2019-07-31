@@ -6,6 +6,7 @@
 - User account passwords will adhere to [NetID password best practices](https://it.arizona.edu/documentation/ua-netid-password-change-best-practices)
 - To join the organization and participate in development, user accounts will need to enable 2 factor authentication
 - For all codebases with more than 1 contributor, write access to the main branch will be restricted and all updates will be made through pull requests
+- Rewriting history will be forbidden exept in cases of emergency
 
 ## Merging Policies
 - Only members of the "Administrators" group will be permitted to merge pull requests
